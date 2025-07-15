@@ -1,0 +1,22 @@
+# Hexo
+node_modules/
+public/
+db.json
+db.*.json
+.deploy*/
+*.log
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+# 保留CNAME文件
+!CNAME 
